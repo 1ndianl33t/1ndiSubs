@@ -1,4 +1,4 @@
-# 1ndiSub
+# 1ndiSubs
 Subdomain Enumeration Tool
 
 ## Comming Soon
